@@ -24,7 +24,7 @@ To develop an AI-based system for early TB detection to support clinical diagnos
 
 ## 📊 Results
 The ResNet18 model was trained for 10 epochs. To maintain clinical relevance, I prioritized Sensitivity (Recall) to ensure minimal false negatives in TB detection.
-Check the results section for the image. 
+- Check the results section for the image. 
 
 ## 🧠 Discussion & Limitations
 While the ResNet18 model shows high accuracy, medical deployment requires further validation. Limitations include:
